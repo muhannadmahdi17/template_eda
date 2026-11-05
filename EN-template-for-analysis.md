@@ -24,15 +24,17 @@ And to create an unordered list, we simply put a star (`*`) before each item.
 
 
 
+
+
 ## 1. Getting Data
 
 
-1- for this data of financial security, I decided to do a quick analysis of the percentage of people who are living in Ottawa-Gatineau part and see the percentage of the people who responded in a (1) "very easy or easy" for the question, "In the past 12 months- how difficult or easy was it for your household to meet its financial needs in terms of transportation- housing- food- clothing and other necessary expenditures?" 
+1- For this data on financial security, I decided to do a quick analysis of the percentage of people who live in Ottawa-Gatineau. I wanted to see what percentage of those people answered (1) “very easy or easy” to the question, “In the past 12 months—how difficult or easy was it for your household to meet its financial needs in terms of transportation—housing- food- clothing and other necessary expenditures?” 
 
 2- Data Link: https://open.ottawa.ca/datasets/7dc44d40bbaa4a85a6123a9c825b0994_0/explore
 
 3- Importing data from Google sheets:
-to import data into Google sheets. I firstly clicked on files in the menu bar then import. It will pop up an import file window I clicked upload and then browse my data file from my desktop.
+I firstly clicked on “Files” in the menu bar, then “Import”. A pop-up window appeared and I clicked on “Upload”, then I browsed for my data file on my desktop.
 
 4- screen capture:
 
@@ -42,25 +44,23 @@ https://docs.google.com/spreadsheets/d/1UtVkUDePxuuj5qoNmi4nnKvAze5fXYie_CfPQqkr
 
 6- General Observation:
 there are 18 columns and 385 rows in the data set.
-The data look almost clean and cohesive, although it needs albeit cleaning to make it simpler and cleaner and accurate.
+Although the data appears almost organized and consistent, it requires some cleaning to enhance its simplicity, precision, and overall quality.
 
 7- Specific Observations:
-Column A shows the date the data was collected and it rages between 2020 and 2024.
-Column B shows the region and, apparently, it is all in one region’s Ottawa-Gatineau part.
-Column C represents the question in both English and French 
-Column D shows the answer response to the question and it varies between 1 - 3
-1-  is very easy or easy 
-2 -Neither difficult nor easy 
-3- very difficult or difficult.  What surprised me when I looked into the data is column H and column I. I did not understand what it stands for, since the title for it is F95ucl, which does not make any sense to me!
+Column A displays the dates of data collection, which span from 2020 to 2024.
+Column B reveals the geographical location, indicating that all data pertains to the Ottawa-Gatineau region.
+Column C represents the question in both English and French.
+Column D shows the answer response to the question, which varies between 1 and 3.
+1 - is very easy or easy. 
+2 - neither difficult nor easy. 
+3- is very difficult or difficult.
+  What surprised me when I looked at the data was columns H and I. I didn’t understand what they represented, since the title for them was F95ucl, which made no sense to me!
 
 
 8- Questions about the data:
 does subgroup column F really matter for the dataset ?
-Column M in the object I don't see any necessity to be in the data set, since it's counting the numbers of the column only without providing any clear information.  
+Column M in the Object doesn’t seem necessary in the data set because it only counts the numbers in the column without providing any additional information.  
 
-Use two hashtag symbols (`##`) to create a level 2 heading like this one.
-
-To include a screen capture, use the sample code below. Your images should be saved in the same folder as your `.md` file.
 
 ![](import-screen-capture.png)<br>
 *Figure 1: The "Import file" prompt on Google Sheets.*
