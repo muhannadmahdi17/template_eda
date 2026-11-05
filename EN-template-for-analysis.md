@@ -1,6 +1,6 @@
-**Date**<br>
-**Course Code & Course Name**<br>
-**Student's First Name & Last Name**<br>
+**NOVEMBER 4, 2026**<br>
+**MPAD 2003A & Data Storytelling**<br>
+**Muhannad Mahdi**<br>
 **Presented to Jean-Sébastien Marier**<br>
 
 # Deliverable 2: Exploratory Data Analysis (EDA)
@@ -22,7 +22,41 @@ Did you notice how to create a hyperlink? In Markdown, we put the clickable text
 
 And to create an unordered list, we simply put a star (`*`) before each item.
 
+
+
 ## 1. Getting Data
+
+
+1- for this data of financial security, I decided to do a quick analysis of the percentage of people who are living in Ottawa-Gatineau part and see the percentage of the people who responded in a (1) "very easy or easy" for the question, "In the past 12 months- how difficult or easy was it for your household to meet its financial needs in terms of transportation- housing- food- clothing and other necessary expenditures?" 
+
+2- Data Link: https://open.ottawa.ca/datasets/7dc44d40bbaa4a85a6123a9c825b0994_0/explore
+
+3- Importing data from Google sheets:
+to import data into Google sheets. I firstly clicked on files in the menu bar then import. It will pop up an import file window I clicked upload and then browse my data file from my desktop.
+
+4- screen capture:
+
+
+5- Public Link to my Google sheet:
+https://docs.google.com/spreadsheets/d/1UtVkUDePxuuj5qoNmi4nnKvAze5fXYie_CfPQqkrhag/edit?usp=sharing
+
+6- General Observation:
+there are 18 columns and 385 rows in the data set.
+The data look almost clean and cohesive, although it needs albeit cleaning to make it simpler and cleaner and accurate.
+
+7- Specific Observations:
+Column A shows the date the data was collected and it rages between 2020 and 2024.
+Column B shows the region and, apparently, it is all in one region’s Ottawa-Gatineau part.
+Column C represents the question in both English and French 
+Column D shows the answer response to the question and it varies between 1 - 3
+1-  is very easy or easy 
+2 -Neither difficult nor easy 
+3- very difficult or difficult.  What surprised me when I looked into the data is column H and column I. I did not understand what it stands for, since the title for it is F95ucl, which does not make any sense to me!
+
+
+8- Questions about the data:
+does subgroup column F really matter for the dataset ?
+Column M in the object I don't see any necessity to be in the data set, since it's counting the numbers of the column only without providing any clear information.  
 
 Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 
